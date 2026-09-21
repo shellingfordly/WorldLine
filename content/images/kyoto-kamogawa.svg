@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#0c1210"/>
+  <path d="M0 300 C160 250, 320 330, 480 280 S700 250, 800 310 L800 500 L0 500 Z" fill="#163028"/>
+  <line x1="120" y1="220" x2="680" y2="255" stroke="#8fd8ea" stroke-width="2" stroke-opacity=".5"/>
+  <rect x="340" y="200" width="120" height="18" fill="#c4a36a" fill-opacity=".55"/>
+  <rect x="24" y="24" width="752" height="452" fill="none" stroke="#c4a36a" stroke-opacity=".4"/>
+  <text x="40" y="56" fill="#c4a36a" font-family="IBM Plex Mono, monospace" font-size="13">PLATE 04 · KYOTO</text>
+  <text x="40" y="460" fill="#8fd8ea" font-family="IBM Plex Mono, monospace" font-size="12">t = 2012-08-14 · KAMOGAWA</text>
+</svg>

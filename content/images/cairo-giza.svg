@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#16120c"/>
+  <polygon points="250,360 340,140 430,360" fill="none" stroke="#c4a36a" stroke-width="6"/>
+  <polygon points="430,360 500,180 570,360" fill="none" stroke="#8fd8ea" stroke-width="4"/>
+  <path d="M0 370 L800 370 L800 500 L0 500 Z" fill="#2a2214"/>
+  <rect x="24" y="24" width="752" height="452" fill="none" stroke="#c4a36a" stroke-opacity=".4"/>
+  <text x="40" y="56" fill="#c4a36a" font-family="IBM Plex Mono, monospace" font-size="13">PLATE · CAIRO</text>
+  <text x="40" y="460" fill="#8fd8ea" font-family="IBM Plex Mono, monospace" font-size="12">t = 2016-11-08 · GIZA</text>
+</svg>

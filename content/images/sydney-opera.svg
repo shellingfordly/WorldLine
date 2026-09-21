@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#0c1418"/>
+  <path d="M220 320 Q300 140 400 300 Q500 140 580 320" fill="none" stroke="#e7e1d4" stroke-width="6"/>
+  <path d="M0 340 C250 300, 550 380, 800 330 L800 500 L0 500 Z" fill="#16303a"/>
+  <rect x="24" y="24" width="752" height="452" fill="none" stroke="#c4a36a" stroke-opacity=".4"/>
+  <text x="40" y="56" fill="#c4a36a" font-family="IBM Plex Mono, monospace" font-size="13">PLATE · SYDNEY</text>
+  <text x="40" y="460" fill="#8fd8ea" font-family="IBM Plex Mono, monospace" font-size="12">t = 2015-01-26 · OPERA HOUSE</text>
+</svg>

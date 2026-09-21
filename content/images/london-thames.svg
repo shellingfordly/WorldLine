@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#101318"/>
+  <path d="M0 280 C120 240, 240 300, 400 270 S640 230, 800 280 L800 500 L0 500 Z" fill="#1a242c"/>
+  <rect x="180" y="120" width="28" height="170" fill="#c4a36a" fill-opacity=".7"/>
+  <rect x="520" y="90" width="36" height="210" fill="#8fd8ea" fill-opacity=".35"/>
+  <rect x="24" y="24" width="752" height="452" fill="none" stroke="#c4a36a" stroke-opacity=".4"/>
+  <text x="40" y="56" fill="#c4a36a" font-family="IBM Plex Mono, monospace" font-size="13">PLATE 08 · LONDON</text>
+  <text x="40" y="460" fill="#8fd8ea" font-family="IBM Plex Mono, monospace" font-size="12">t = 2016-06-18 · WATERLOO BRIDGE</text>
+</svg>

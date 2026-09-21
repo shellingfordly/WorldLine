@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#1a120c"/>
+  <rect x="90" y="160" width="620" height="70" fill="#8a6a3a"/>
+  <rect x="90" y="230" width="620" height="18" fill="#c4a36a"/>
+  <g fill="#5a4030">
+    <rect x="140" y="120" width="16" height="40"/>
+    <rect x="260" y="110" width="16" height="50"/>
+    <rect x="390" y="118" width="16" height="42"/>
+    <rect x="520" y="108" width="16" height="52"/>
+    <rect x="650" y="122" width="16" height="38"/>
+  </g>
+  <rect x="24" y="24" width="752" height="452" fill="none" stroke="#c4a36a" stroke-opacity=".4"/>
+  <text x="40" y="56" fill="#c4a36a" font-family="IBM Plex Mono, monospace" font-size="13">PLATE 06 · XI'AN</text>
+  <text x="40" y="460" fill="#8fd8ea" font-family="IBM Plex Mono, monospace" font-size="12">t = 2025-06-18 · CITY WALL</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#0b1018"/>
+  <path d="M80 360 Q400 80 720 360" fill="none" stroke="#c4a36a" stroke-width="6"/>
+  <line x1="180" y1="300" x2="180" y2="400" stroke="#8fd8ea" stroke-width="4"/>
+  <line x1="620" y1="300" x2="620" y2="400" stroke="#8fd8ea" stroke-width="4"/>
+  <path d="M0 400 L800 400 L800 500 L0 500 Z" fill="#151c28"/>
+  <rect x="24" y="24" width="752" height="452" fill="none" stroke="#c4a36a" stroke-opacity=".4"/>
+  <text x="40" y="56" fill="#c4a36a" font-family="IBM Plex Mono, monospace" font-size="13">PLATE 09 · NEW YORK</text>
+  <text x="40" y="460" fill="#8fd8ea" font-family="IBM Plex Mono, monospace" font-size="12">t = 2017-09-23 · BROOKLYN BRIDGE</text>
+</svg>

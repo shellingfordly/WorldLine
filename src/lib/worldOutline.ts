@@ -1,0 +1,18 @@
+export const WORLD_CITIES: { name: string; lat: number; lng: number }[] = [
+  { name: '北京', lat: 39.904, lng: 116.407 },
+  { name: '上海', lat: 31.23, lng: 121.47 },
+  { name: '成都', lat: 30.67, lng: 104.06 },
+  { name: '东京', lat: 35.68, lng: 139.76 },
+  { name: '新加坡', lat: 1.35, lng: 103.82 },
+  { name: '悉尼', lat: -33.87, lng: 151.21 },
+  { name: '孟买', lat: 19.08, lng: 72.88 },
+  { name: '迪拜', lat: 25.2, lng: 55.27 },
+  { name: '莫斯科', lat: 55.76, lng: 37.62 },
+  { name: '伦敦', lat: 51.51, lng: -0.13 },
+  { name: '巴黎', lat: 48.86, lng: 2.35 },
+  { name: '开罗', lat: 30.04, lng: 31.24 },
+  { name: '纽约', lat: 40.71, lng: -74.01 },
+  { name: '洛杉矶', lat: 34.05, lng: -118.24 },
+  { name: '圣保罗', lat: -23.55, lng: -46.63 },
+  { name: '开普敦', lat: -33.92, lng: 18.42 },
+]

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#140f0c"/>
+  <rect x="180" y="90" width="70" height="320" fill="#2a1a12"/>
+  <rect x="360" y="70" width="90" height="360" fill="#3a2418"/>
+  <rect x="560" y="110" width="60" height="280" fill="#2a1a12"/>
+  <circle cx="400" cy="200" r="18" fill="#c45c2a" fill-opacity=".85"/>
+  <rect x="24" y="24" width="752" height="452" fill="none" stroke="#c4a36a" stroke-opacity=".4"/>
+  <text x="40" y="56" fill="#c4a36a" font-family="IBM Plex Mono, monospace" font-size="13">PLATE 03 · CHENGDU</text>
+  <text x="40" y="460" fill="#8fd8ea" font-family="IBM Plex Mono, monospace" font-size="12">t = 2022-10-03 · NARROW LANES</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#0c1014"/>
+  <polygon points="400,70 455,360 345,360" fill="none" stroke="#8fd8ea" stroke-width="6"/>
+  <polygon points="400,110 430,340 370,340" fill="none" stroke="#c4a36a" stroke-width="2"/>
+  <circle cx="400" cy="70" r="8" fill="#c4a36a"/>
+  <rect x="24" y="24" width="752" height="452" fill="none" stroke="#c4a36a" stroke-opacity=".4"/>
+  <text x="40" y="56" fill="#c4a36a" font-family="IBM Plex Mono, monospace" font-size="13">PLATE 11 · SHENZHEN</text>
+  <text x="40" y="460" fill="#8fd8ea" font-family="IBM Plex Mono, monospace" font-size="12">t = 2019-12-31 · PING AN TOWER</text>
+</svg>

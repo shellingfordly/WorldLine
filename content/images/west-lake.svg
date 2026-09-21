@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="lake" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1b2a33"/>
+      <stop offset="100%" stop-color="#0c1418"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#lake)"/>
+  <ellipse cx="400" cy="280" rx="280" ry="90" fill="#8fd8ea" fill-opacity=".12" stroke="#8fd8ea" stroke-opacity=".5"/>
+  <path d="M140 270 C240 250, 320 260, 400 255 S560 240, 670 260" fill="none" stroke="#c4a36a" stroke-width="2"/>
+  <rect x="24" y="24" width="752" height="452" fill="none" stroke="#c4a36a" stroke-opacity=".4"/>
+  <text x="40" y="56" fill="#c4a36a" font-family="IBM Plex Mono, monospace" font-size="13">PLATE 04 · HANGZHOU</text>
+  <text x="40" y="460" fill="#8fd8ea" font-family="IBM Plex Mono, monospace" font-size="12">t = 2023-08-20 · WEST LAKE</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#0a1016"/>
+  <rect x="80" y="180" width="28" height="140" fill="#c4a36a" fill-opacity=".75"/>
+  <rect x="130" y="140" width="36" height="180" fill="#8fd8ea" fill-opacity=".28"/>
+  <rect x="190" y="200" width="22" height="120" fill="#c4a36a" fill-opacity=".45"/>
+  <rect x="540" y="160" width="40" height="160" fill="#8fd8ea" fill-opacity=".4"/>
+  <rect x="600" y="120" width="24" height="200" fill="#c4a36a" fill-opacity=".6"/>
+  <rect x="650" y="190" width="50" height="130" fill="#8fd8ea" fill-opacity=".22"/>
+  <path d="M0 340 C200 310, 400 370, 800 330 L800 500 L0 500 Z" fill="#121a24"/>
+  <rect x="24" y="24" width="752" height="452" fill="none" stroke="#c4a36a" stroke-opacity=".4"/>
+  <text x="40" y="56" fill="#c4a36a" font-family="IBM Plex Mono, monospace" font-size="13">PLATE 10 · HONG KONG</text>
+  <text x="40" y="460" fill="#8fd8ea" font-family="IBM Plex Mono, monospace" font-size="12">t = 2018-07-07 · VICTORIA HARBOUR</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#120c0a"/>
+  <polygon points="400,90 560,210 520,390 280,390 240,210" fill="none" stroke="#c45a3a" stroke-width="8"/>
+  <polygon points="400,140 500,230 475,350 325,350 300,230" fill="none" stroke="#c4a36a" stroke-width="3"/>
+  <rect x="24" y="24" width="752" height="452" fill="none" stroke="#c4a36a" stroke-opacity=".4"/>
+  <text x="40" y="56" fill="#c4a36a" font-family="IBM Plex Mono, monospace" font-size="13">PLATE 02 · SHANGHAI</text>
+  <text x="40" y="460" fill="#8fd8ea" font-family="IBM Plex Mono, monospace" font-size="12">t = 2010-10-01 · CHINA PAVILION</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#120c0a"/>
+  <rect x="220" y="80" width="360" height="300" fill="none" stroke="#8a2a1e" stroke-width="18"/>
+  <rect x="300" y="140" width="200" height="180" fill="#6d1f16"/>
+  <path d="M250 80 L400 40 L550 80" fill="none" stroke="#c4a36a" stroke-width="6"/>
+  <rect x="24" y="24" width="752" height="452" fill="none" stroke="#c4a36a" stroke-opacity=".4"/>
+  <text x="40" y="56" fill="#c4a36a" font-family="IBM Plex Mono, monospace" font-size="13">PLATE 02 · BEIJING</text>
+  <text x="40" y="460" fill="#8fd8ea" font-family="IBM Plex Mono, monospace" font-size="12">t = 2021-05-01 · MERIDIAN GATE</text>
+</svg>

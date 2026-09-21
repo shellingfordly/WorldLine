@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0c1418"/>
+      <stop offset="55%" stop-color="#14303a"/>
+      <stop offset="100%" stop-color="#0a1c22"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#sea)"/>
+  <path d="M0 220 Q120 200 240 230 T480 210 T800 240 L800 500 L0 500 Z" fill="#0a242c"/>
+  <path d="M0 260 Q200 240 400 270 T800 255" fill="none" stroke="#8fd8ea" stroke-opacity=".5"/>
+  <path d="M0 300 Q180 280 400 310 T800 295" fill="none" stroke="#8fd8ea" stroke-opacity=".25"/>
+  <rect x="24" y="24" width="752" height="452" fill="none" stroke="#c4a36a" stroke-opacity=".4"/>
+  <text x="40" y="56" fill="#c4a36a" font-family="IBM Plex Mono, monospace" font-size="13">PLATE 07 · QINGDAO</text>
+  <text x="40" y="460" fill="#8fd8ea" font-family="IBM Plex Mono, monospace" font-size="12">t = 2026-04-04 · LOW FREQUENCY SEA</text>
+</svg>

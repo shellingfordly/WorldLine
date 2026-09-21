@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1218"/>
+      <stop offset="100%" stop-color="#152028"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g fill="none" stroke="#8fd8ea" stroke-opacity=".35">
+    <path d="M80 360 C180 220, 260 250, 400 210 S640 120, 740 180" stroke-width="2"/>
+    <path d="M90 390 C210 260, 300 300, 430 250 S650 170, 750 230" stroke-width="1"/>
+  </g>
+  <circle cx="430" cy="248" r="7" fill="#c4a36a"/>
+  <rect x="24" y="24" width="752" height="452" fill="none" stroke="#c4a36a" stroke-opacity=".4"/>
+  <text x="40" y="56" fill="#c4a36a" font-family="IBM Plex Mono, monospace" font-size="13">PLATE 01 · SHANGHAI</text>
+  <text x="40" y="460" fill="#8fd8ea" font-family="IBM Plex Mono, monospace" font-size="12">t = 2020-03-15 · RAIN WINDOW</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#101318"/>
+  <polygon points="400,80 430,360 370,360" fill="#e7e1d4" fill-opacity=".85"/>
+  <rect x="80" y="360" width="640" height="16" fill="#c4a36a" fill-opacity=".4"/>
+  <rect x="24" y="24" width="752" height="452" fill="none" stroke="#c4a36a" stroke-opacity=".4"/>
+  <text x="40" y="56" fill="#c4a36a" font-family="IBM Plex Mono, monospace" font-size="13">PLATE · BUENOS AIRES</text>
+  <text x="40" y="460" fill="#8fd8ea" font-family="IBM Plex Mono, monospace" font-size="12">t = 2018-02-18 · OBELISCO</text>
+</svg>
