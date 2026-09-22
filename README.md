@@ -6,6 +6,8 @@ A personal spacetime archive rendered as a 3D globe. Life events sit on Earth’
 
 Built with Vite, React, TypeScript, and Three.js (React Three Fiber).
 
+**Live:** [https://shellingfordly.github.io/WorldLine/](https://shellingfordly.github.io/WorldLine/)
+
 ## Features
 
 - Discrete event hops — one wheel step (or ↑/↓) flies to the previous or next event; hops lock until the flight ends
@@ -99,3 +101,11 @@ src/
 - [Vite](https://vitejs.dev/) + [React](https://react.dev/) + [TypeScript](https://www.typescriptlang.org/)
 - [Three.js](https://threejs.org/) via [@react-three/fiber](https://docs.pmnd.rs/react-three-fiber) / [drei](https://github.com/pmndrs/drei)
 - [@react-three/postprocessing](https://github.com/pmndrs/react-postprocessing) for bloom and vignette
+
+## Deploy (GitHub Pages)
+
+Pushes to `main` build and publish via GitHub Actions (`.github/workflows/deploy-pages.yml`).
+
+Site URL: `https://shellingfordly.github.io/WorldLine/`
+
+In the repo: **Settings → Pages → Build and deployment → Source: GitHub Actions**.

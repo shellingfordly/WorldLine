@@ -4,6 +4,8 @@
 
 技术栈：Vite、React、TypeScript、Three.js（React Three Fiber）。
 
+**在线访问：** [https://shellingfordly.github.io/WorldLine/](https://shellingfordly.github.io/WorldLine/)
+
 [English](./README.md)
 
 ## 功能
@@ -99,3 +101,11 @@ src/
 - [Vite](https://vitejs.dev/) + [React](https://react.dev/) + [TypeScript](https://www.typescriptlang.org/)
 - [Three.js](https://threejs.org/) via [@react-three/fiber](https://docs.pmnd.rs/react-three-fiber) / [drei](https://github.com/pmndrs/drei)
 - [@react-three/postprocessing](https://github.com/pmndrs/react-postprocessing)（bloom、vignette）
+
+## 部署（GitHub Pages）
+
+推送到 `main` 后，由 GitHub Actions（`.github/workflows/deploy-pages.yml`）自动构建并发布。
+
+站点地址：`https://shellingfordly.github.io/WorldLine/`
+
+仓库设置：**Settings → Pages → Build and deployment → Source: GitHub Actions**。
